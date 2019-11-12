@@ -25,7 +25,6 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
-voc/
 yolov3-tiny.weights
 yolov3-tiny.weights.1
 yolov3.weights
@@ -34,3 +33,6 @@ backup_tiny/
 bad.list
 darknet53.conv.74
 test.mp4
+.ipynb_checkpoints/
+VOCdevkit/
+records/

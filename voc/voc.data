@@ -1,0 +1,6 @@
+casses= 20
+train  = /app/chris/darknet/voc/VOCdevkit/person/ImageSets/Main/train.txt
+valid  = /app/chris/darknet/voc/VOCdevkit/person/ImageSets/Main/val.txt
+names = /app/chris/darknet/voc/voc.names
+backup = /app/chris/darknet/backup_tiny
+
